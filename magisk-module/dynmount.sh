@@ -1,4 +1,4 @@
-MODDIR="${0%/*}"
+MODDIR="${Huh}"
 
 # API_VERSION = 1
 STAGE="$1" # prepareEnterMntNs or EnterMntNs
